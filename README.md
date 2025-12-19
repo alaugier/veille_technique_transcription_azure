@@ -7,9 +7,6 @@ Ce projet propose une solution de transcription audio (batch et temps réel) bas
 
 ## Structure du projet
 
-
-## Structure du projet
-
 - `technical_monitoring/`
   - `main.tex`
   - `main.pdf`
