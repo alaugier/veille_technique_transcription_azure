@@ -1,0 +1,28 @@
+# Environnement virtuel Python
+unit_azure_tests/env_uaztests/
+# Cache Python
+__pycache__/
+*.pyc
+
+# Fichiers de compilation LaTeX
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.glg
+*.glo
+*.gls
+*.ist
+*.log
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+*.acn
+*.acr
+*.alg
+
+# Dossier de build LaTeX
+build/
