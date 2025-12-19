@@ -7,21 +7,23 @@ Ce projet propose une solution de transcription audio (batch et temps réel) bas
 
 ## Structure du projet
 
-technical_monitoring/
-├── main.tex
-├── main.pdf
-├── references.bib
-├── README.md
-├── unit_azure_tests/
-│   ├── requirements.txt
-│   ├── src/
-│   │   ├── config_azure_speech.py
-│   │   ├── transcription_batch.py
-│   │   └── transcription_microphone.py
-│   └── tests/
-│       ├── init.py
-│       └── test_azure_speech.py
 
+## Structure du projet
+
+- `technical_monitoring/`
+  - `main.tex`
+  - `main.pdf`
+  - `references.bib`
+  - `README.md`
+  - `unit_azure_tests/`
+    - `requirements.txt`
+    - `src/`
+      - `config_azure_speech.py`
+      - `transcription_batch.py`
+      - `transcription_microphone.py`
+    - `tests/`
+      - `__init__.py`
+      - `test_azure_speech.py`
 
 ## Installation
 
@@ -83,6 +85,6 @@ Voir unit_azure_tests/requirements.txt pour la liste complète.
 
 ## Liens utiles 
 
-[link text](http://learn.microsoft.com/fr-fr/azure/ai-services/speech-service/)
+[Azure AI-Services speech service](http://learn.microsoft.com/fr-fr/azure/ai-services/speech-service/)
 
-[link text](http://docs.pytest.org/fr/latest/)
+[Pytest documentation](http://docs.pytest.org/fr/latest/)
