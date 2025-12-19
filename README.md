@@ -84,4 +84,5 @@ Voir unit_azure_tests/requirements.txt pour la liste complète.
 ## Liens utiles
 
 [link text](http://learn.microsoft.com/fr-fr/azure/ai-services/speech-service/)
+
 [link text](http://docs.pytest.org/fr/latest/)
