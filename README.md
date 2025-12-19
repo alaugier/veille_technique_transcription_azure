@@ -1,0 +1,1 @@
+# veille_technique_transcription_azure
